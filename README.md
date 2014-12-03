@@ -15,7 +15,7 @@ additonal options:
 
 domain: sub-domain of the slack instance 
 
-apiToken: token given by the slack integration API
+apiToken: a webhook token given by the slack integration API
 
 username: name displayed in the chat channel. default "winston-slack"
 
